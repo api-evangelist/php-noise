@@ -39,7 +39,8 @@ apis:
   - name: PHP-Noise
     description: "Noise Background Image Generator"
     humanURL: https://php-noise.com/
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
